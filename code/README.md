@@ -1,5 +1,15 @@
 # baseline_cmapss
 
+## Install conda environment from environment.yml file
+
+```
+conda env create -f environment.yml
+conda activate myenv
+```
+
+## Dataset
+
+Place raw CMAPSS dataset folder in Datasets/ folder
 
 
 ## Getting started
